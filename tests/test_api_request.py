@@ -1,5 +1,5 @@
-from binance.client import Client
-from binance.exceptions import BinanceAPIException, BinanceRequestException
+from binance_python.client import Client
+from binance_python.exceptions import BinanceAPIException, BinanceRequestException
 import pytest
 import requests_mock
 

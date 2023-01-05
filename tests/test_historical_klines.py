@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 
-from binance.client import Client
+from binance_python.client import Client
 import pytest
 import requests_mock
 
